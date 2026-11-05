@@ -1,0 +1,26 @@
+CÙNG EM TIẾN BỘ – Trợ lí giáo viên tiểu học (bản PWA)
+Tác giả: Phạm Thị Thanh Hằng – TH-THCS Linh Đông
+
+CÁCH DÙNG
+1. Đưa cả thư mục này lên một nơi có địa chỉ https (Netlify, GitHub Pages, hosting của trường...). Mở địa chỉ đó bằng Chrome/Edge.
+2. Bấm "Cài như ứng dụng" ở Trang chủ (hoặc biểu tượng cài đặt trên thanh địa chỉ) để có biểu tượng trên màn hình.
+3. Sau lần mở đầu tiên, ứng dụng chạy được cả khi mất mạng. Dữ liệu lưu trên chính thiết bị đang dùng.
+4. Nên vào Cài đặt > "Tải file sao lưu" mỗi tuần.
+Lưu ý: không mở trực tiếp bằng cách bấm đúp index.html (cần https hoặc máy chủ để chế độ ngoại tuyến hoạt động).
+
+NHẬN XÉT ĐỊNH KÌ (xuất file mẫu GK1/CK1/GK2/CK2)
+1. Vào mục "Nhận xét định kì", chọn giai đoạn và chỉnh mốc ngày.
+2. Bước 2: chọn file mẫu (.xlsx) của hệ thống để nạp danh sách lớp (mã định danh, họ tên, ngày sinh).
+3. Bước 3 (không bắt buộc): chọn các file cô ĐÃ nhận xét xong để AI học văn phong của cô (giọng văn, độ dài, cách nhắc nhở). Chỉ lấy câu nhận xét, không lấy tên hay mã học sinh; dữ liệu nằm trong trình duyệt, có nút xoá.
+4. Bước 4: viết nhận xét (AI chỉ có khi mở trong Claude; bản cài trên máy thì tự gõ). Có thể sửa từng ô trước khi xuất.
+5. Bước 5: chọn lại file mẫu cần điền để xuất. Các cột khác của mẫu giữ nguyên; mức T/H/C, điểm, mã nhận xét cô tự nhập.
+
+TRÒ CHƠI ÔN TẬP THEO BÀI HỌC (Toán 3, Tiếng Việt 3 – Kết nối tri thức)
+1. Vào "Trò chơi ôn tập", chọn môn (Toán / Tiếng Việt) và tuần. App tự lấy tuần hiện tại theo phân phối chương trình năm học 2026–2027 (tuần 1 bắt đầu 07/9/2026); bấm ◀ ▶ để đổi tuần.
+2. Bấm tên bài nếu chỉ muốn ôn riêng một bài; không chọn bài nào thì ôn cả tuần.
+3. "Đối kháng giữa các tổ": mỗi lần một câu, 6 dạng: chọn đáp án, đúng/sai, điền chỗ trống, chọn nhiều đáp án, ghép đôi, sắp xếp. Bấm vào đáp án tổ trả lời để kiểm tra; bấm "Tổ … +1" để cộng điểm thi đua.
+4. "Ghép đôi trí nhớ": lật thẻ tìm các cặp phù hợp trong bài đang học.
+5. Thêm câu hỏi của cô: "Thêm câu hỏi từ file Word/PDF" → chọn bài, chọn file (.docx, .pdf, .txt) hoặc dán nội dung.
+   - Nếu file đã có sẵn câu trắc nghiệm kèm đáp án (Câu 1… A. B. C. D. … Đáp án: …), app nhận dạng và thêm thẳng, không cần mạng.
+   - Muốn AI soạn câu hỏi theo tài liệu thì mở app trong Claude, bấm "AI soạn câu hỏi", duyệt rồi thêm vào ngân hàng.
+6. "Câu hỏi cô đã thêm": xem, xoá, tải gói câu hỏi (.json) để sao lưu/chia sẻ cho đồng nghiệp, hoặc nhập gói câu hỏi.

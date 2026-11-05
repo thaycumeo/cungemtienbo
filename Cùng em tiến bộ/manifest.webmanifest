@@ -1,0 +1,17 @@
+{
+  "name": "Cùng em tiến bộ – Trợ lí giáo viên tiểu học",
+  "short_name": "Cùng em tiến bộ",
+  "description": "Gọi tên, thi đua, ôn tập, đồng hồ và kết nối phụ huynh cho giáo viên tiểu học.",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFF8EC",
+  "theme_color": "#6C4CF1",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
